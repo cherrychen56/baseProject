@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml:1:1-2:47
+INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml:1:1-2:47
+INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml:1:1-2:47
+INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml:1:1-2:47
+INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml:1:1-2:47
+INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml:1:1-2:47
+INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml:1:1-2:47
+	package
+		ADDED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml:2:5-44
+		INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml
+		ADDED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml:1:1-2:47
+		INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml
+		ADDED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml:1:1-2:47
+		INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml
+INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml
+INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml
+INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml
+		ADDED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml
+		ADDED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/AndroidManifest.xml

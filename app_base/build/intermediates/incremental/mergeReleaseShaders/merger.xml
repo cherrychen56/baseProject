@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/main/shaders"/></dataSet><dataSet config="release"><source path="/usr/local/www/leigod_acc/New_LeiGodAccelerator_Android/app_base/src/release/shaders"/></dataSet></merger>

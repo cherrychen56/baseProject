@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <paths>
+        <external-path
+            name="files_root"
+            path="Android/data/com.leigod.accelerator/" />
+        <external-path path="." name="files_path" />
+        <!--<external-path name="cache" path="Cache/" />-->
+    </paths>
+</resources>

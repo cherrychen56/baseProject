@@ -1,0 +1,3 @@
+include ':app_base'
+include ':app'
+rootProject.name = "BaseProject"
